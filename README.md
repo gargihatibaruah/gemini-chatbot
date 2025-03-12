@@ -1,2 +1,1 @@
-# gemini-chatbot
-gemini-chatbot
+This is a project which is coded in html,css and javascript.
